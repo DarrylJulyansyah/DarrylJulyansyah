@@ -1,25 +1,23 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/3d/10/70/3d107051edc483aa19762c8c33260acb.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.tenor.com/images/33b408e1d934a3091e46a3b1e5d32002/tenor.gif" height="175px"/></a>
 
 
 <!-- GIF Sebelumnya -->
 <!-- https://i.pinimg.com/originals/97/e9/79/97e979731beadb50be38e6e273ebfeef.gif -->
 
 
-<h1 align="center">Hi 👋, I'm Reza</h1>
+<h1 align="center">Hi 👋, I'm Darryl</h1>
 <h3 align="center">I'm UI Designer & Beginer Front End Developer From Indonesia</h3>
 
 
 ## 🙋‍♂️ About Me
 
-Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been into programming since 2021 because it's fun, solving problems with code.
+Hi! Introducing, my name is Darryl... I come from Indonesia in Bandung. I've been into programming since 2021 because it's fun, solving problems with code.
 
  And this is Me :
 
 - 🔭 I’m Searching for working 🚀
 
-- 🌱 I’m currently *Learning Flutter*
-
-- 📫 How to reach me *rezzarap24@gmail.com*
+- 📫 How to reach me *darryljuliansyah8@gmail.com*
 
 - ⚡ Fun fact *I play games to calm my mind a little.*
 
@@ -28,15 +26,7 @@ Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been 
 <p align="center"> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a>
  
 </p>
 
@@ -65,20 +55,15 @@ Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been 
 <br/>
 <br/>
 
-<a href="https://github.com/ezazee/github-readme-activity-graph"><img alt="ezazee Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ezazee&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me:
-<p align="left">
+## <p align="left">
 
-<a target = "_blank" href = "https://www.linkedin.com/in/mohamad-reza-65879b220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!--<a target = "_blank" href = "https://www.linkedin.com/in/mohamad-reza-65879b220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a target = "_blank" href = "https://www.instagram.com/mrzsaa_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a target = "_blank" href = "https://www.facebook.com/profile.php?id=100038138281883"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a target = "_blank" href = "https://dribbble.com/ezazee"><img src="https://img.icons8.com/fluency/48/000000/dribbble.png"/></a>
 <a target = "_blank" href = "https://www.behance.net/rezzaafrezza"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>
-</p>
+</p>-->
 
 ## ✌ Views and Followers
 <a href="https://github.com/ezazee/github-profile-views-counter">
