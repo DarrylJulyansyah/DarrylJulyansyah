@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Darryl</h1>
-<h3 align="center">I'm UI Designer & Beginer Front End Developer From Indonesia</h3>
+<h3 align="center">I'm UI Designer & Beginner Developer From Indonesia</h3>
 
 
 ## 🙋‍♂️ About Me
