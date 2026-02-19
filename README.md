@@ -5,8 +5,8 @@
 <!-- https://i.pinimg.com/originals/97/e9/79/97e979731beadb50be38e6e273ebfeef.gif -->
 
 
-<h1 align="center">Hi 👋, I'm Darryl</h1>
-<h3 align="center">I'm UI Designer & Beginner Developer From Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Ryll</h1>
+<h3 align="center">Beginner Developer From Indonesia</h3>
 
 
 ## 🙋‍♂️ About Me
